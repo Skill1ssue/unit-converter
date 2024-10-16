@@ -99,3 +99,13 @@ section h2 {
 section p {
   font-size: 14px;
 }
+
+#footer {
+  font-style: italic;
+  font-size: 12px;
+}
+
+#footer span {
+  font-style: normal;
+  font-size: 20px;
+}
